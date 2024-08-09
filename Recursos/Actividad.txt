@@ -1,0 +1,33 @@
+https://clideo.com/editor/
+
+_________________________________________________________________
+
+https://petstore.octoperf.com/actions/Catalog.action
+
+https://parabank.parasoft.com/parabank/index.htmpe=xml
+
+https://www.opencart.com/
+
+https://demo.guru99.com/test/newtours/register.php
+
+_________________________________________________________________
+
+-Seleccionar los 3 defectos más importantes de lo trabajado en la actividad de la clase 3 y entregar un archivo PDF con todo lo pedido en esa actividad, incluyendo las capturas de pantalla de los errores. 
+
+-Con la misma página deberán realizar 5 casos de prueba positivos y 5 casos negativos. Una vez escritos, ejecutarlos y comparar resultado en un excel. Recuerden incluir todos los detalles.
+
+-Basados en los resultados de la ejecución, realizar el reporte de resultados como se vio en clase.
+
+-Reconocer las distintas etapas de un ciclo de prueba manual, basado en testing funcional.
+
+-Realizar las tareas más importantes de un tester.
+
+-Link a una carpeta compartida (Drive, Onedrive, etc…). Dentro de la carpeta se deberán encontrar 3 archivos.
+
+-Un excel con los casos de prueba. Este archivo llevará el formato “CasosPrueba + Apellido”.
+
+-Un pdf con los defectos seleccionados. Se espera un archivo “Práctica de bugs + Apellido”. 
+
+-Un pdf con el reporte de resultados. Se espera un archivo llamado “Reporte + Apellido”. 
+
+-Recuerda que debes trabajar con la página seleccionada en el primer actividad. 

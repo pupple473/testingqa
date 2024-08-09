@@ -1,0 +1,1 @@
+Corregir: Buenas noches Pablo habria que trabjar en mejorar los titulos estan muy resumidos y en varios solo la funcionalidad tanto los casos de prueba como el reporte de bugs hay q colocar el error de q se trata y en los casos de prueba lo q vamos a probar, el reporte de prueba esta muy bien sin mas gracias y saludos
